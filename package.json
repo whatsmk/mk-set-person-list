@@ -1,0 +1,36 @@
+{
+  "isMKApp": true,
+  "name": "mk-set-person-list",
+  "description": "mk-set-person-list",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "",
+  "keywords": [
+    "mk",
+    "monkey king",
+    "react",
+    "redux",
+    "mk-js",
+    "mk-command",
+    "mk-set-person-list"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whatsmk/mk-set-person-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whatsmk/mk-set-person-list/issues"
+  },
+  "homepage": "https://github.com/whatsmk/mk-set-person-list#readme",
+  "scripts": {
+    "start": "mk start",
+    "build": "mk build",
+    "pkg": "mk pkg"
+  },
+  "dependencies": {
+    "mk-command": "*",
+    "mk-preset-component": "^1.0.0",
+    "mk-preset-style": "^1.0.0",
+    "mk-sdk": "*"
+  }
+}
